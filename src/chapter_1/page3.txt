@@ -1,5 +1,5 @@
 welcome to git
 
-I hope you are having fun
+I hope you are having fun!
 
 missing java maybe
